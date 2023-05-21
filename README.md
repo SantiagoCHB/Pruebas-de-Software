@@ -2,7 +2,7 @@
 
 ## Tabla de contenido
 
-- [¿Qué son las Pruebas de Software](##¿-que-son-las-pruebas-de-software) 
+- [##¿-que-son-las-pruebas-de-software-?]
 
 ## **¿Qué son las Pruebas de Software?**
 
