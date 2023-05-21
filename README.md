@@ -11,7 +11,7 @@ Por ende, el beneficio de esta evaluación es comprobar que todo funcione tal y 
 
 Dentro de estas evaluaciones, "existen diversos tipos, donde cada uno se caracteriza por poseer sus propias particularidades y, por lo tanto, aplicaciones distintas"(uniR, 2022). A continuación los tipos:
 
-**Pruebas unitarias o _until testing_
+**Pruebas unitarias o _until testing_**
 
 > "Comprueban que cada una de las piezas o unidades más pequeñas del software en el que se está trabajando funcione correctamente" (Viva UNIR, 2022)
 
