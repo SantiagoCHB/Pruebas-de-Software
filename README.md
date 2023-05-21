@@ -1,11 +1,10 @@
 # Pruebas-de-Software
 
-## Tabla de contenido
+## Tabla de contenidos
 
-- [¿Qué son las Pruebas de Software?](##**-¿-qué-son-las-pruebas-de-software-?-**)
-- [Tipos de Prueba de Software
+- [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
 
-## **¿Qué son las Pruebas de Software?**
+## ¿Qué son las Pruebas de Software? {#qué-son-las-pruebas-de-software}
 
 > "Son el mejor método para confirmar la funcionalidad del producto que se esta desarrollando"(Vive UNIR, 2022).
 >
