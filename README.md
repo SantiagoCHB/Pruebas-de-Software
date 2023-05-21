@@ -114,11 +114,11 @@ Los patrones de desarrollo GoF o por sus siglas en ingles (Gang of Four) ofrecen
 
 Estos patrones se clasifican en tres categorías:
 
-## 1. **Patrones de creación**: 
+### 1. **Patrones de creación**: 
 
 Estos patrones se centran en la creación de objetos de manera flexible y eficiente. Algunos ejemplos de patrones de creación incluyen el patrón Singleton, que garantiza la existencia d euna única instancia de una clase, y el patrón Factory Method, que delega la creación de objetos a subclases.
 
-## 2. **Patrones de estructura**: 
+### 2. **Patrones de estructura**: 
 
 Estos patrones se enfocan en la composición y estructuración de clases y objetos. Ejemplos de patrones de estructura incluyen el patrón Adapter, que permite la interoperabilidad entre interfaces incompatibles, y el patrón Composite, que permite tratar objetos individuales y colecciones de objetos de manera uniforme.
 
