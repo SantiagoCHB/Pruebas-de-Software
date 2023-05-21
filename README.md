@@ -3,9 +3,8 @@
 ## Tabla de contenidos
 
 - [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
--   [Tipos de Pruebas de Software](#tipos-de-pruebas-de-software)
--    [Pruebas unitarias o _until testing_](#pruebas-unitarias-o-until-testing)
-- [
+- [Tipos de Pruebas de Software](#tipos-de-pruebas-de-software)
+- [¿Qué son los Patrones de desarrolllo GoF?](#qué-son-los-patrones-de-software)
 
 ## [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
 
@@ -19,7 +18,7 @@ Por ende, el beneficio de esta evaluación es comprobar que todo funcione tal y 
 
 Dentro de estas evaluaciones, "existen diversos tipos, donde cada uno se caracteriza por poseer sus propias particularidades y, por lo tanto, aplicaciones distintas"(uniR, 2022). A continuación los tipos:
 
-#### 1. [Pruebas unitarias o _until testing_](#pruebas-unitarias-o-until-testing) 
+#### 1. Pruebas unitarias o _until testing_ 
 
 > "Comprueban que cada una de las piezas o unidades más pequeñas del software en el que se está trabajando funcione correctamente" (Viva UNIR, 2022)
 
@@ -111,7 +110,7 @@ Por nombrar algunos tenemos:
 #### 12. **Pruebas de localización.
 
 
-## **¿Qué son los Patrones de desarrolllo GOF?**
+## [¿Qué son los Patrones de desarrolllo GoF?](#qué-son-los-patrones-de-software)
 
 > "El objetivo de los patrones es facilitar la reutilización de diseños y arquitecturas software que han tenido éxito capturando la experiencia y haciéndola accesible a los no expertos." (Gracia, 2013)
 
