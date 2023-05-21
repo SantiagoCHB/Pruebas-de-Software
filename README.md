@@ -8,11 +8,11 @@ En otras palabras, las pruebas son un proceso de instrospeccón que se realiza e
 Principalmente porque, "lo que se lleva a cabo durante estas pruebas es una evaluación minuciosa para verificar la funcionalidad de un determinado producto" (Vive UNIR, 2022).
 Por ende, el beneficio de esta evaluación es comprobar que todo funcione tal y como debe, ayudando a cerrar el margen de error en temprana fases del desarrollo. Esto no quiere decir que solo se puedan realizar en estas fases, ya que estas pruebas pueden llevarse a cabo en diferentes etapas del ciclo de vida del desarrollo de software.
 
-**Tipos de Pruebas de Software**
+### **Tipos de Pruebas de Software**
 
 Dentro de estas evaluaciones, "existen diversos tipos, donde cada uno se caracteriza por poseer sus propias particularidades y, por lo tanto, aplicaciones distintas"(uniR, 2022). A continuación los tipos:
 
-### 1. **Pruebas unitarias o _until testing_**
+#### 1. **Pruebas unitarias o _until testing_**
 
 > "Comprueban que cada una de las piezas o unidades más pequeñas del software en el que se está trabajando funcione correctamente" (Viva UNIR, 2022)
 
@@ -22,7 +22,7 @@ Las pruebas unitarias por lo generalmente se desarrollan por los propios desarro
 
 Entre sus ventajas y beneficios encontramos el aislamiento del código o la detección temprana de errores. Asimismo "está el ahorro de tiempo y de dinero, ya que permiten detectar errores al principio y evitar seguir avanzando arrastrando ese fallo que va a condicionar el resto del proyecto" (Viva UNIR, 2022).
 
-2. **Pruebas de integración**
+#### 2. **Pruebas de integración**
 
 >"el objetivo de estas pruebas es comprobar que los difernetes componentes operan bien juntos" (Viva UNIR, 2022)
 
@@ -38,7 +38,7 @@ Estas pruebas de integración se realizan despues de las pruebas unitarias y ant
 
 Asimismo, algunos de los benificios de las pruebas de integración son la detección temprana de problemas de interoperabilidad o la verificación de la funcionalidad completa del sistema.
 
-3. **Pruebas de rendimiento**
+#### 3. **Pruebas de rendimiento**
 
 > "Se trata de chequear la respuesta del software ante cargas de trabajos diferentes y en condiciones reales." (Viva UNIR, 2022)
 
@@ -46,7 +46,7 @@ En concreto, el objetivo principal de las pruebas de rendimiento es medir y anal
 
 Por ende, algunos aspectos que se suelen evaluar son: tiempo de respuesta, escalabilidad, estabilidad, uso de recursos, resistencia al estrés, entre otros. Gracias a esto, los beneficios que traen estas pruebas son la identificación de cuellos de botellas y puntos debiles, y mejora de la experiencia del usuario.
 
-4. **Pruebas de estrés**
+#### 4. **Pruebas de estrés**
 
 > "es necesario comprobar cuánta tensión puede soportar el sistema antes de que se produzca algún error" (Viva UNIR, 2022)
 
@@ -64,7 +64,7 @@ Algunas de las situaciones donde se puede aplicar la prueba son:
 
 Durante estas sistuaciones, se suele monitorear y analiza cada comportamiento que el sistema pueda llegar a hacer. Derviado de esto los beneficios que tenemos es la mejora de la cofianza del sistema y asu vez la validación de los límites del sistema.
 
-5. **Pruebas de regresión**
+#### 5. **Pruebas de regresión**
 
 > "Tiene como objetivo comprobar que los cambios en un componente del software no provocan reacciones no deseadas" (Viva UNIR, 2022)
 
@@ -82,7 +82,7 @@ Asi que derivado de lo anterior, algunos aspectos clave en las pruebas de regres
 
 Por consiguiente, los beneficios obtenidos de la prueba serían un mantemiento de la calidad del software y detección de problemas.
 
-6. **Pruebas de humo**
+#### 6. **Pruebas de humo**
 
 > "Ayudan a determinar si el conjunto del software funciona bien y si esta preparado para ser sometido a pruebas más exhaustivas" (Viva UNIR, 2022)
 
@@ -96,15 +96,15 @@ En rasgos generales, esos son los tipos más conocidos y usado de pruebas de sof
 
 Por nombrar algunos tenemos:
 
-7. **Pruebas de sistema**
-8. **Pruebas de aceptación**
-9. **Pruebas de seguridad**
-10. **Pruebas de usabilidad**
-11. **Pruebas de compatibilidad**
-12. **Pruebas de localización.
+#### 7. **Pruebas de sistema**
+#### 8. **Pruebas de aceptación**
+#### 9. **Pruebas de seguridad**
+#### 10. **Pruebas de usabilidad**
+#### 11. **Pruebas de compatibilidad**
+#### 12. **Pruebas de localización.
 
 
-**¿Qué son los Patrones de desarrolllo GOF?**
+## **¿Qué son los Patrones de desarrolllo GOF?**
 
 > "El objetivo de los patrones es facilitar la reutilización de diseños y arquitecturas software que han tenido éxito capturando la experiencia y haciéndola accesible a los no expertos." (Gracia, 2013)
 
@@ -114,17 +114,23 @@ Los patrones de desarrollo GoF o por sus siglas en ingles (Gang of Four) ofrecen
 
 Estos patrones se clasifican en tres categorías:
 
-1. **Patrones de creación**: Estos patrones se centran en la creación de objetos de manera flexible y eficiente. Algunos ejemplos de patrones de creación incluyen el patrón Singleton, que garantiza la existencia d euna única instancia de una clase, y el patrón Factory Method, que delega la creación de objetos a subclases.
+## 1. **Patrones de creación**: 
 
-2. **Patrones de estructura**: Estos patrones se enfocan en la composición y estructuración de clases y objetos. Ejemplos de patrones de estructura incluyen el patrón Adapter, que permite la interoperabilidad entre interfaces incompatibles, y el patrón Composite, que permite tratar objetos individuales y colecciones de objetos de manera uniforme.
+Estos patrones se centran en la creación de objetos de manera flexible y eficiente. Algunos ejemplos de patrones de creación incluyen el patrón Singleton, que garantiza la existencia d euna única instancia de una clase, y el patrón Factory Method, que delega la creación de objetos a subclases.
 
-3. **Patrones de comportamiento**: Estos patrones se centran en el comportamiento y la comunicación entre objetos. Algunos ejemplos de patrones de comportamiento incluyen el patrón Observer, que define una relación uno a muchos entre objetos, y el patrón Strategy, que permite encapsular algoritmos y cambiarlos dinámicamente.
+## 2. **Patrones de estructura**: 
+
+Estos patrones se enfocan en la composición y estructuración de clases y objetos. Ejemplos de patrones de estructura incluyen el patrón Adapter, que permite la interoperabilidad entre interfaces incompatibles, y el patrón Composite, que permite tratar objetos individuales y colecciones de objetos de manera uniforme.
+
+### 3. **Patrones de comportamiento**: 
+
+Estos patrones se centran en el comportamiento y la comunicación entre objetos. Algunos ejemplos de patrones de comportamiento incluyen el patrón Observer, que define una relación uno a muchos entre objetos, y el patrón Strategy, que permite encapsular algoritmos y cambiarlos dinámicamente.
 
 Los patrones de desarrollo GoF proporcionan un vocabulario común y una guía para el diseño de software orientado a objetos, lo que facilita la comunicación y el entendimiento entre desarrolladores. Estos patrones no son soluciones universales para todos los problemas de diseño, pero ofrecen enfoques probados y comunes que pueden mejorar la flexibilidad, reutilización y mantenibilidad del software.
 
 
 
-**Referencias**
+## **Referencias**
 - Un poco de Patrones de Diseño GoF, (Gang of Four). Lusimi Gracias (2013, January 2). Un Poco de Java; Un poco de Java. 
 https://unpocodejava.com/2013/01/02/un-poco-de-patrones-de-diseno-gof-gang-of-four/
 
