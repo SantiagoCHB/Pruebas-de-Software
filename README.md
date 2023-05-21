@@ -4,7 +4,7 @@
 
 - [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
 - [Tipos de Pruebas de Software](#tipos-de-pruebas-de-software)
-- [¿Qué son los Patrones de desarrolllo GoF?](#qué-son-los-patrones-de-software)
+- [¿Qué son los Patrones de desarrollo GoF?](#qué-son-los-patrones-de-desarrollo-gof)
 
 ## [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
 
@@ -110,7 +110,7 @@ Por nombrar algunos tenemos:
 #### 12. **Pruebas de localización.
 
 
-## [¿Qué son los Patrones de desarrolllo GoF?](#qué-son-los-patrones-de-software)
+## [¿Qué son los Patrones de desarrollo GoF?](#qué-son-los-patrones-de-desarrollo-gof)
 
 > "El objetivo de los patrones es facilitar la reutilización de diseños y arquitecturas software que han tenido éxito capturando la experiencia y haciéndola accesible a los no expertos." (Gracia, 2013)
 
