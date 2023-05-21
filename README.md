@@ -3,7 +3,9 @@
 ## Tabla de contenidos
 
 - [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
-- [Tipos de Pruebas de Software](#tipos-de-pruebas-de-software)
+-   [Tipos de Pruebas de Software](#tipos-de-pruebas-de-software)
+-    [Pruebas unitarias o _until testing_](#pruebas-unitarias-o-until-testing)
+- [
 
 ## [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
 
@@ -17,7 +19,7 @@ Por ende, el beneficio de esta evaluación es comprobar que todo funcione tal y 
 
 Dentro de estas evaluaciones, "existen diversos tipos, donde cada uno se caracteriza por poseer sus propias particularidades y, por lo tanto, aplicaciones distintas"(uniR, 2022). A continuación los tipos:
 
-#### 1. **Pruebas unitarias o _until testing_**
+#### 1. [Pruebas unitarias o _until testing_](#pruebas-unitarias-o-until-testing) 
 
 > "Comprueban que cada una de las piezas o unidades más pequeñas del software en el que se está trabajando funcione correctamente" (Viva UNIR, 2022)
 
