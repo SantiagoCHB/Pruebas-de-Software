@@ -83,3 +83,40 @@ Por consiguiente, los beneficios obtenidos de la prueba serían un mantemiento d
 
 6. **Pruebas de humo**
 
+> "Ayudan a determinar si el conjunto del software funciona bien y si esta preparado para ser sometido a pruebas más exhaustivas" (Viva UNIR, 2022)
+
+Su objetivo principal es identificar problemas graves o errores evidentes que peudan impedir que el software funcione correctamente. Se denominan asi; "humo" porque se asemejan a encender un dispositivo y veirficar si sale humo. Al igual que en ese escenario, las pruebas de humo buscan detectar problemas obvio antes de profundizar en pruebas más detalladas.
+
+Durante las pruebas de humo, se ejecutan casos de prueba básicos y sencillos que cubren las funcionalidades principales y críticas del software. Estas pruebas suelen ser rápidas y no implican una cobertura exhaustiva de todas las caracteristicas o casos de uso posibles.
+
+Los beneificos que pueden llegar a traer estas pruebas de humo son realmente utiles, como lo pueden ser detección temprana de problemas graves que puedan atentar al sistemas más adelante, ahorro de tiempo y recursos y garantía mínima de estabilidad.
+
+En rasgos generales, esos son los tipos más conocidos y usado de pruebas de software; sin embargo, existen varios tipos más, cada uno dependiendo de sus aspectos específicos del sistema y a la par sus objetivos particulares.
+
+Por nombrar algunos tenemos:
+
+7. **Pruebas de sistema**
+8. **Pruebas de aceptación**
+9. **Pruebas de seguridad**
+10. **Pruebas de usabilidad**
+11. **Pruebas de compatibilidad**
+12. **Pruebas de localización.
+
+
+**¿Qué son los Patrones de desarrolllo GOF?
+
+> "El objetivo de los patrones es facilitar la reutilización de diseños y arquitecturas software que han tenido éxito capturando la experiencia y haciéndola accesible a los no expertos." (Gracia, 2013)
+
+Los patrones de desarrollo GoF o por sus siglas en ingles (Gang of Four) ofrecen soluciones probadas y comunes para problemas recurrentes en el diseño de software orientado a objetos (POO).
+
+>Según menciona Gracia (2013), estos patrones fueron documentos y estudiados por Erich Ganma, Richard Helm, Ralph Johnson y John Vlissides en su mítico libro Design Patterns
+
+Estos patrones se clasifican en tres categorías:
+
+1. **Patrones de creación**: Estos patrones se centran en la creación de objetos de manera flexible y eficiente. Algunos ejemplos de patrones de creación incluyen el patrón Singleton, que garantiza la existencia d euna única instancia de una clase, y el patrón Factory Method, que delega la creación de objetos a subclases.
+
+2. **Patrones de estructura**: Estos patrones se enfocan en la composición y estructuración de clases y objetos. Ejemplos de patrones de estructura incluyen el patrón Adapter, que permite la interoperabilidad entre interfaces incompatibles, y el patrón Composite, que permite tratar objetos individuales y colecciones de objetos de manera uniforme.
+
+3. **Patrones de comportamiento**: Estos patrones se centran en el comportamiento y la comunicación entre objetos. Algunos ejemplos de patrones de comportamiento incluyen el patrón Observer, que define una relación uno a muchos entre objetos, y el patrón Strategy, que permite encapsular algoritmos y cambiarlos dinámicamente.
+
+Los patrones de desarrollo GoF proporcionan un vocabulario común y una guía para el diseño de software orientado a objetos, lo que facilita la comunicación y el entendimiento entre desarrolladores. Estos patrones no son soluciones universales para todos los problemas de diseño, pero ofrecen enfoques probados y comunes que pueden mejorar la flexibilidad, reutilización y mantenibilidad del software.
