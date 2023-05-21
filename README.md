@@ -37,7 +37,7 @@ Estas pruebas de integración se realizan despues de las pruebas unitarias y ant
 
 Asimismo, algunos de los benificios de las pruebas de integración son la detección temprana de problemas de interoperabilidad o la verificación de la funcionalidad completa del sistema.
 
-**Pruebas de rendimiento**
+3. **Pruebas de rendimiento**
 
 > "Se trata de chequear la respuesta del software ante cargas de trabajos diferentes y en condiciones reales." (Viva UNIR, 2022)
 
@@ -45,7 +45,41 @@ En concreto, el objetivo principal de las pruebas de rendimiento es medir y anal
 
 Por ende, algunos aspectos que se suelen evaluar son: tiempo de respuesta, escalabilidad, estabilidad, uso de recursos, resistencia al estrés, entre otros. Gracias a esto, los beneficios que traen estas pruebas son la identificación de cuellos de botellas y puntos debiles, y mejora de la experiencia del usuario.
 
-**Pruebas de estrés**
+4. **Pruebas de estrés**
 
 > "es necesario comprobar cuánta tensión puede soportar el sistema antes de que se produzca algún error" (Viva UNIR, 2022)
+
+Su funcion es determinar el punto de quiebre o límite del sistemas y observar cómo se comporta bajo una carga intesiva o un alto volumen de transacciones. Durante las pruebas de estrés, se somete al sistema a condiciones de carga máxima o más allá de lo límites normales de uso. Esto se hace para identificar posibles problemas de rendimiento, estabilidad, resistencia y recuperación en situaciones extremas.
+
+Algunas de las situaciones donde se puede aplicar la prueba son:
+
+- Carga máxima: Se simula el máximo volumen de usuarios o solicitudes concurrentes que se espera que el sistema pueda manejar. Se evalúa cómo el sistema se comporta y si puede mantener su rendimiento y estabilidad bajo esa carga extrema.
+
+- Sobrecarga de datos: Se evalúa cómo el sistema maneja grandes volúmenes de datos, como bases de datos masivas o archivos de gran tamaño. Se busca identificar posibles problemas de rendimiento o capacidad.
+
+- Carga sostenida: Se somete al sistema a una carga constante y sostenida durante un período prolongado de tiempo. Esto permite evaluar la resistencia del sistema y su capacidad para mantener un rendimiento estable a largo plazo.
+
+- Picos de carga: Se simulan situaciones en las ue se produce un aunmento repentino y significativo de usuarios o tráfico en el sistema. Se evalúa cómo el sistema responde y si puede manejar eficientemente el aumento repentino de la carga.
+
+Durante estas sistuaciones, se suele monitorear y analiza cada comportamiento que el sistema pueda llegar a hacer. Derviado de esto los beneficios que tenemos es la mejora de la cofianza del sistema y asu vez la validación de los límites del sistema.
+
+5. **Pruebas de regresión**
+
+> "Tiene como objetivo comprobar que los cambios en un componente del software no provocan reacciones no deseadas" (Viva UNIR, 2022)
+
+Cuando se realizan cambios en el software, como la adición de nuevas características, la corección de errores o la optimización del código, existe el riesgo de que esos cambios afecten negativamente a otras partes del sistema que antes funcionaban correctamente. Las pruebas de regresión se llevan a cabo para mitigar este riesgo y asegurar que las funcionalidades existentes no se vean afectadas por los cambios realizados.
+
+Asi que derivado de lo anterior, algunos aspectos clave en las pruebas de regresión son:
+
+- Selección de casos de pruebas: Se seleccionan casos de prueba relevantes que cubren las funcionalidades afectadas por los cambios recientes y las áreas relacionadas.
+
+- Ejecución repetida de pruebas: Los casos de prueba seleccionados se vuelven a ejecutar para verificar si siguen produciendo los resultados esperados después de los cambios. 
+
+- Automatización de pruebas: Para agilizar el proceso de pruebas de regresion, se puede utilizar la automatización de pruebas. Esto implica desarrollar scripts o programas que ejecuten automáticamente los casos de prueba seleccionados y verifiquen los resultados.
+
+- Identificación y resolución de regresiones: Si se detectan nuevos errores o regresiones durate las pruebas de regresión, se deben documentar y solucionar adecuadamente. 
+
+Por consiguiente, los beneficios obtenidos de la prueba serían un mantemiento de la calidad del software y detección de problemas.
+
+6. **Pruebas de humo**
 
