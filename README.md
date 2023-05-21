@@ -5,6 +5,7 @@
 - [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
 - [Tipos de Pruebas de Software](#tipos-de-pruebas-de-software)
 - [¿Qué son los Patrones de desarrollo GoF?](#qué-son-los-patrones-de-desarrollo-gof)
+- [Referencias](#referencias)
 
 ## [¿Qué son las Pruebas de Software?](#qué-son-las-pruebas-de-software)
 
@@ -136,7 +137,7 @@ Los patrones de desarrollo GoF proporcionan un vocabulario común y una guía pa
 
 
 
-## **Referencias**
+## [Referencias](#referencias)
 - Un poco de Patrones de Diseño GoF, (Gang of Four). Lusimi Gracias (2013, January 2). Un Poco de Java; Un poco de Java. 
 https://unpocodejava.com/2013/01/02/un-poco-de-patrones-de-diseno-gof-gang-of-four/
 
