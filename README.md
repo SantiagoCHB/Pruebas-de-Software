@@ -1,7 +1,11 @@
 # Pruebas-de-Software
-**¿Qué son las Pruebas de Software?**
+## Tabla de Contenido
+-[**¿Qué son las Pruebas de Software?**]
 
-> "Son el mejor método para confirmar la funcionalidad del producto que se esta desarrollando"(Vive UNIR, 2022). 
+
+## **¿Qué son las Pruebas de Software?**
+
+> "Son el mejor método para confirmar la funcionalidad del producto que se esta desarrollando"(Vive UNIR, 2022).
 >
 En otras palabras, las pruebas son un proceso de instrospeccón que se realiza en un proyecto de software,todo esto con el fin de descrubrir fallos o errores no vistos en el momento.
 Principalmente porque, "lo que se lleva a cabo durante estas pruebas es una evaluación minuciosa para verificar la funcionalidad de un determinado producto" (Vive UNIR, 2022).
@@ -120,3 +124,16 @@ Estos patrones se clasifican en tres categorías:
 3. **Patrones de comportamiento**: Estos patrones se centran en el comportamiento y la comunicación entre objetos. Algunos ejemplos de patrones de comportamiento incluyen el patrón Observer, que define una relación uno a muchos entre objetos, y el patrón Strategy, que permite encapsular algoritmos y cambiarlos dinámicamente.
 
 Los patrones de desarrollo GoF proporcionan un vocabulario común y una guía para el diseño de software orientado a objetos, lo que facilita la comunicación y el entendimiento entre desarrolladores. Estos patrones no son soluciones universales para todos los problemas de diseño, pero ofrecen enfoques probados y comunes que pueden mejorar la flexibilidad, reutilización y mantenibilidad del software.
+
+
+
+**Referencias**
+- Un poco de Patrones de Diseño GoF, (Gang of Four). Lusimi Gracias (2013, January 2). Un Poco de Java; Un poco de Java. 
+https://unpocodejava.com/2013/01/02/un-poco-de-patrones-de-diseno-gof-gang-of-four/
+
+- Vive UNIR. (2022, August 26). La importancia de las pruebas de software. UNIR; UNIR. 
+https://www.unir.net/ingenieria/revista/pruebas-software/
+
+‌
+
+‌
